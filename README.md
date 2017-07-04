@@ -9,5 +9,5 @@
 
 插件类
 ==
->>360出品的插件化 [https://github.com/Qihoo360/RePlugin](https://github.com/Qihoo360/RePlugin)＜/br＞
+>>360出品的插件化 [https://github.com/Qihoo360/RePlugin](https://github.com/Qihoo360/RePlugin)</br>
 >>滴滴出品的插件化 [https://github.com/didi/VirtualAPK](https://github.com/didi/VirtualAPK)
