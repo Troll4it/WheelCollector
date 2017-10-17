@@ -11,3 +11,8 @@
 ==
 >>360出品的插件化 [https://github.com/Qihoo360/RePlugin](https://github.com/Qihoo360/RePlugin)</br>
 >>滴滴出品的插件化 [https://github.com/didi/VirtualAPK](https://github.com/didi/VirtualAPK)
+
+
+日历
+==
+>>[SuperCalendar](https://github.com/MagicMashRoom/SuperCalendar)
