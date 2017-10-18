@@ -15,8 +15,8 @@
 
 架构方面
 ==
->>360出品的插件化 [https://github.com/Qihoo360/RePlugin](https://github.com/Qihoo360/RePlugin)</br>
->>滴滴出品的插件化 [https://github.com/didi/VirtualAPK](https://github.com/didi/VirtualAPK)</br>
+>> [360出品的插件化](https://github.com/Qihoo360/RePlugin)</br>
+>> [滴滴出品的插件化](https://github.com/didi/VirtualAPK)</br>
 >>[模块间通信《YY苍王ModuleBus》](https://github.com/cangwang/ModuleBus)</br>
 >>[组件化《YY苍王Gank》](https://github.com/cangwang/Gank)</br>
 >>[模块案例《ModularizationProjec》](https://github.com/BaronZ88/t)</br>
