@@ -5,7 +5,7 @@
 
 **学习合集**
 ==
->>[Android学习文档和工具]{https://github.com/foxleezh/AndroidDoc}</br>
+>>[Android学习文档和工具](https://github.com/foxleezh/AndroidDoc)</br>
 >>[免费的计算机编程类中文书籍]{https://github.com/justjavac/free-programming-books-zh_CN}</br>
 >>[Glide文档中文翻译项目]{https://github.com/Muyangmin/glide-docs-cn}</br>
 >>[分类 Android 开源代码大全]{https://github.com/XXApple/AndroidLibs}</br>
