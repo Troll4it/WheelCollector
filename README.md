@@ -21,7 +21,7 @@
 >>[组件化《YY苍王Gank》](https://github.com/cangwang/Gank)</br>
 >>[模块案例《ModularizationProjec》](https://github.com/BaronZ88/t)</br>
 >>[一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能](https://github.com/luojilab/DDComponentForAndroid)</br>
->> [ItemTouchHelper实现今日头条频道排序、移动 ](https://github.com/YoKeyword/ItemTouchHelperDemo)</br>
+
 
 
 面试
@@ -29,11 +29,17 @@
 >>**https://github.com/LRH1993/android_interview**</br>
 >>**https://github.com/stormzhang/android-interview-questions-cn**</br>
 
+***API
+==
+
+>> [「一个」、「Time 时光」、「开眼」、「一席」、「梨视频」、「微软必应词典」、「金山词典」、「豆瓣电影」、「中央天气」、「魅族天气」、「每日一文」、「12306」、「途牛」、「快递100」、「快递」应用 Api。仅供学习，禁止商业使用，侵权请联系删除。]](https://github.com/jokermonn/-Api)</br>
+
+
 RecyclerView相关
 ==
 >>[VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager)</br>
 >>[仿房产销冠APP销控表界面-多RecyclerView同步滚动](https://github.com/GitLqr/TopsalesSellControlTableDemo)</br>
-
+>> [ItemTouchHelper实现今日头条频道排序、移动 ](https://github.com/YoKeyword/ItemTouchHelperDemo)</br>
 
 轮子
 ==
@@ -47,7 +53,11 @@ RecyclerView相关
 >>[ Android 版本更新 ](https://github.com/WVector/AppUpdate)</br>
 >>[可垂直翻、可水平翻的翻页公告](https://github.com/sfsheng0322/MarqueeView)</br>
 >>[android实现的反人类音量滑块](https://github.com/shellljx/FuckingVolumeSlider)</br>
->>[]{}</br>
+>>[灰常灰常简单的Android日历选择器~]{https://github.com/AigeStudio/DatePicker}</br>
+>>[citypicker 高仿iOS 滚轮实现 省市区 城市选择三级联动](https://github.com/crazyandcoder/citypicker)</br>
+>>[CoordinatorLayout打造 打造炫酷效果的例子](https://github.com/gdutxiaoxu/CoordinatorLayoutExample)</br>
+>>[Picture Selector Library for Android or 多图片选择器](https://github.com/LuckSiege/PictureSelector)</br>
+>>[]()</br>
 
 下拉刷新
 ==
@@ -57,11 +67,12 @@ RecyclerView相关
 
 图像类
 ==
->>[让相机使用更简单Fotoapparat]( https://github.com/Fotoapparat/Fotoapparat)
+>>[让相机使用更简单Fotoapparat]( https://github.com/Fotoapparat/Fotoapparat)</br>
+>>[在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto)</br>
 
 开源项目
 ==
->>[防网易云ImitateNetEasyCloud]{https://github.com/Limuyang1013/ImitateNetEasyCloud)</br>
+>>[防网易云ImitateNetEasyCloud](https://github.com/Limuyang1013/ImitateNetEasyCloud)</br>
 >>[banya瓣呀，一个非官方的豆瓣app](https://github.com/forezp/banya)</br>
 >>[MVVM高仿"掘金Android App": databinding + kotlin + rx 的优雅实践](https://github.com/fashare2015/MVVM-JueJin)</b------r>
 >>[开源的 Material Design 豆瓣客户端](https://github.com/DreaminginCodeZH/Douya)</br>
@@ -71,5 +82,6 @@ RecyclerView相关
 AR、VR
 ==
 >>[VRPlayer VR播放器是一个简单而又强大本地VR视频播放器](https://github.com/wheat7/VRPlayer)</br>
+>>[360°全景图片、全景视频工程](https://github.com/sfsheng0322/DroidVR)</br>
 
 
