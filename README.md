@@ -21,6 +21,8 @@
 >>[组件化《YY苍王Gank》](https://github.com/cangwang/Gank)</br>
 >>[模块案例《ModularizationProjec》](https://github.com/BaronZ88/t)</br>
 >>[一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能](https://github.com/luojilab/DDComponentForAndroid)</br>
+>> [ItemTouchHelper实现今日头条频道排序、移动 ](https://github.com/YoKeyword/ItemTouchHelperDemo)</br>
+
 
 面试
 ==
@@ -63,6 +65,8 @@ RecyclerView相关
 >>[banya瓣呀，一个非官方的豆瓣app](https://github.com/forezp/banya)</br>
 >>[MVVM高仿"掘金Android App": databinding + kotlin + rx 的优雅实践](https://github.com/fashare2015/MVVM-JueJin)</b------r>
 >>[开源的 Material Design 豆瓣客户端](https://github.com/DreaminginCodeZH/Douya)</br>
+>>[一款第三方今日头条客户端, MVP + RxJava + Retrofit](https://github.com/iMeiji/Toutiao)</br>
+>>[本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发](https://github.com/GitLqr/LQRWeChat)</br>
 
 AR、VR
 ==
