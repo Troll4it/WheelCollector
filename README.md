@@ -11,6 +11,7 @@
 >>[分类 Android 开源代码大全](https://github.com/XXApple/AndroidLibs)</br>
 >>[Study + Android + 学习资源 + 百科全书](https://github.com/Freelander/Android_Data)</br>
 >>[安卓学习笔记GcsSloop](https://github.com/GcsSloop/AndroidNote)</br>
+>>[一份系统、全面的安卓进阶学习指南（更新中）](https://github.com/iwannabetop/Awesome-Android-Learning-Guide)</br>
 
 
 架构方面
@@ -57,7 +58,13 @@ RecyclerView相关
 >>[citypicker 高仿iOS 滚轮实现 省市区 城市选择三级联动](https://github.com/crazyandcoder/citypicker)</br>
 >>[CoordinatorLayout打造 打造炫酷效果的例子](https://github.com/gdutxiaoxu/CoordinatorLayoutExample)</br>
 >>[Picture Selector Library for Android or 多图片选择器](https://github.com/LuckSiege/PictureSelector)</br>
->>[]()</br>
+>>[ZoomHeader 模仿饿了么详情页可以跟随手指移动 viewpager变详情页](https://github.com/githubwing/ZoomHeader)</br>
+>>[Android_Slide_To_Close Android也可以轻松实现类iOS滑动关闭效果](https://github.com/yuanhoujun/Android_Slide_To_Close)</br>
+>>[EditText在ListView中无焦点无光标](https://github.com/laole918/EditTextInListAndRecyclerView)</br>
+>>[smartTable一款android自动生成表格框架](https://github.com/huangyanbin/smartTable)</br>
+>>[EclipseLoading 日食加载动画](https://github.com/Bakumon/EclipseLoading)</br>
+>>[android-body-part-master 人体部位图](https://github.com/crystalchi/android-body-part-master)</br>
+>>[TableView](https://github.com/evrencoskun/TableView)</br>
 
 下拉刷新
 ==
@@ -69,6 +76,7 @@ RecyclerView相关
 ==
 >>[让相机使用更简单Fotoapparat]( https://github.com/Fotoapparat/Fotoapparat)</br>
 >>[在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto)</br>
+>>[ImageloaderManager 图片加载库的二次封装](https://github.com/JuHonggang/ImageloaderManager)</br>
 
 开源项目
 ==
@@ -78,6 +86,8 @@ RecyclerView相关
 >>[开源的 Material Design 豆瓣客户端](https://github.com/DreaminginCodeZH/Douya)</br>
 >>[一款第三方今日头条客户端, MVP + RxJava + Retrofit](https://github.com/iMeiji/Toutiao)</br>
 >>[本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发](https://github.com/GitLqr/LQRWeChat)</br>
+>>[FakeWeather『假装看天气』─── 天气预报 & 公交查询 & 资讯阅读 & 妹纸福利 的 Android 客户端](https://github.com/li-yu/FakeWeather)</br>
+>>[LifeHelper 综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块。架构模式：采用MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly。安装阿里编码规约插件，不断修正不合理代码和最大程度去除黄色警告！！！融合开发中需要的各种小案例，持续更新中！！！](https://github.com/yangchong211/LifeHelper)</br>
 
 AR、VR
 ==
