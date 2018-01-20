@@ -12,7 +12,7 @@
 >>[Study + Android + 学习资源 + 百科全书](https://github.com/Freelander/Android_Data)</br>
 >>[安卓学习笔记GcsSloop](https://github.com/GcsSloop/AndroidNote)</br>
 >>[一份系统、全面的安卓进阶学习指南（更新中）](https://github.com/iwannabetop/Awesome-Android-Learning-Guide)</br>
-
+>>[LearningNotes](https://github.com/francistao/LearningNotes)</br>
 
 架构方面
 ==
@@ -41,6 +41,7 @@ RecyclerView相关
 >>[VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager)</br>
 >>[仿房产销冠APP销控表界面-多RecyclerView同步滚动](https://github.com/GitLqr/TopsalesSellControlTableDemo)</br>
 >> [ItemTouchHelper实现今日头条频道排序、移动 ](https://github.com/YoKeyword/ItemTouchHelperDemo)</br>
+>>[MultiTypeRecyclerViewAdapter一个专注于RecyclerView优雅刷新（接管资源和数据源）的MVP模式库，可配合大多数Adapter](https://github.com/crazysunj/MultiTypeRecyclerViewAdapter)</br>
 
 轮子
 ==
@@ -65,6 +66,9 @@ RecyclerView相关
 >>[EclipseLoading 日食加载动画](https://github.com/Bakumon/EclipseLoading)</br>
 >>[android-body-part-master 人体部位图](https://github.com/crystalchi/android-body-part-master)</br>
 >>[TableView](https://github.com/evrencoskun/TableView)</br>
+>>[StepDialog 一行代码实现ofo app首次注册时的步骤控件](https://github.com/guangzq/StepDialog)</br>
+>>[android-adDialog 一个简单，强大的广告活动弹窗控件](https://github.com/yipianfengye/android-adDialog)</br>
+>>[CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample)</br>
 
 下拉刷新
 ==
@@ -77,6 +81,7 @@ RecyclerView相关
 >>[让相机使用更简单Fotoapparat]( https://github.com/Fotoapparat/Fotoapparat)</br>
 >>[在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto)</br>
 >>[ImageloaderManager 图片加载库的二次封装](https://github.com/JuHonggang/ImageloaderManager)</br>
+>>[GSYVideoPlayer 视频播放器（IJKplayer）](https://github.com/CarGuo/GSYVideoPlayer)</br>
 
 开源项目
 ==
@@ -88,6 +93,9 @@ RecyclerView相关
 >>[本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发](https://github.com/GitLqr/LQRWeChat)</br>
 >>[FakeWeather『假装看天气』─── 天气预报 & 公交查询 & 资讯阅读 & 妹纸福利 的 Android 客户端](https://github.com/li-yu/FakeWeather)</br>
 >>[LifeHelper 综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块。架构模式：采用MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly。安装阿里编码规约插件，不断修正不合理代码和最大程度去除黄色警告！！！融合开发中需要的各种小案例，持续更新中！！！](https://github.com/yangchong211/LifeHelper)</br>
+>>[Eve Dagger、Clean、MVP模式开发应用](https://github.com/BobEve/Eve)</br>
+>>[KotlinMvp 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP练手项目，UI 简约风格](https://github.com/git-xuhao/KotlinMvp)</br>
+>>[YiZhi MVP+RxJava2+Retrofit2+Glide+Rxbus，主要实现日报、新闻、干货、影视等资讯，个人项目](https://github.com/Horrarndoo/YiZhi)</br>
 
 AR、VR
 ==
