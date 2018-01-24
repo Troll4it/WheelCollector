@@ -13,6 +13,7 @@
 >>[安卓学习笔记GcsSloop](https://github.com/GcsSloop/AndroidNote)</br>
 >>[一份系统、全面的安卓进阶学习指南（更新中）](https://github.com/iwannabetop/Awesome-Android-Learning-Guide)</br>
 >>[LearningNotes](https://github.com/francistao/LearningNotes)</br>
+>>[awesome-java-leetcode 算法](https://github.com/Blankj/awesome-java-leetcode)</br>
 
 架构方面
 ==
@@ -22,6 +23,7 @@
 >>[组件化《YY苍王Gank》](https://github.com/cangwang/Gank)</br>
 >>[模块案例《ModularizationProjec》](https://github.com/BaronZ88/t)</br>
 >>[一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能](https://github.com/luojilab/DDComponentForAndroid)</br>
+>>[DDComponentForAndroid 一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能 ](https://github.com/luojilab/DDComponentForAndroid)</br>
 
 
 
@@ -42,6 +44,7 @@ RecyclerView相关
 >>[仿房产销冠APP销控表界面-多RecyclerView同步滚动](https://github.com/GitLqr/TopsalesSellControlTableDemo)</br>
 >> [ItemTouchHelper实现今日头条频道排序、移动 ](https://github.com/YoKeyword/ItemTouchHelperDemo)</br>
 >>[MultiTypeRecyclerViewAdapter一个专注于RecyclerView优雅刷新（接管资源和数据源）的MVP模式库，可配合大多数Adapter](https://github.com/crazysunj/MultiTypeRecyclerViewAdapter)</br>
+>>[RecyclerViewCardGallery RecyclerView实现Card Gallery效果，替代ViewPager方案。能够快速滑动并最终定位到居中位置](https://github.com/huazhiyuan2008/RecyclerViewCardGallery)</br>
 
 轮子
 ==
@@ -55,7 +58,7 @@ RecyclerView相关
 >>[ Android 版本更新 ](https://github.com/WVector/AppUpdate)</br>
 >>[可垂直翻、可水平翻的翻页公告](https://github.com/sfsheng0322/MarqueeView)</br>
 >>[android实现的反人类音量滑块](https://github.com/shellljx/FuckingVolumeSlider)</br>
->>[灰常灰常简单的Android日历选择器~]{https://github.com/AigeStudio/DatePicker}</br>
+>>[灰常灰常简单的Android日历选择器~](https://github.com/AigeStudio/DatePicker)</br>
 >>[citypicker 高仿iOS 滚轮实现 省市区 城市选择三级联动](https://github.com/crazyandcoder/citypicker)</br>
 >>[CoordinatorLayout打造 打造炫酷效果的例子](https://github.com/gdutxiaoxu/CoordinatorLayoutExample)</br>
 >>[Picture Selector Library for Android or 多图片选择器](https://github.com/LuckSiege/PictureSelector)</br>
@@ -69,6 +72,27 @@ RecyclerView相关
 >>[StepDialog 一行代码实现ofo app首次注册时的步骤控件](https://github.com/guangzq/StepDialog)</br>
 >>[android-adDialog 一个简单，强大的广告活动弹窗控件](https://github.com/yipianfengye/android-adDialog)</br>
 >>[CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample)</br>
+>>[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)</br>
+>>[Captcha Android滑块验证码控件](https://github.com/luozhanming/Captcha)</br>
+>>[DrawView  可拖动的悬浮按钮](https://github.com/linqssonny/DrawView)</br>
+>> [RxPay 支付宝 微信 支付 Rxjava]( https://github.com/Vinctor/RxPay)</br>
+>>[SearchEtDemo 一个简单好用又实用的搜索框+含搜索历史记录]( https://github.com/yihuangxing/SearchEtDemo)</br>
+>>[Fragmentation 单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，简化开发，轻松解决动画、嵌套、事务相关等问题]( https://github.com/YoKeyword/Fragmentation)</br>
+>>[RetrofitCache  RetrofitCache让retrofit2+okhttp3+rxjava配置缓存如此简单。通过注解配置，可以针对每一个接口灵活配置缓存策略；同时让每一个接口方便支持数据模拟，可以代码减小侵入性，模拟数据可以从内存，Assets，url轻松获取]( https://github.com/yale8848/RetrofitCache)</br>
+>>[UCBrowser 最新版的代码已经实现简单的新闻列表，使用的是MVP架构，并对代码做了些优化，感兴趣的小伙伴们更新一下哈](https://github.com/zibuyuqing/UCBrowser)</br>
+>>[NewFastFrame 终极组件化框架项目方案]( https://github.com/HelloChenJinJun/NewFastFrame)</br>
+>>[statuslayout 数据状态切换布局](https://github.com/csming1995/statuslayout)</br>
+>>[BadgeNumberManager 支持国产主流手机品牌(华为、小米、OPPO、vivo)的桌面角标设置。]( https://github.com/beiliao-mobile/BadgeNumberManager)</br>
+>>[AnimatedPieView 圆弧扇形标注图]( https://github.com/razerdp/AnimatedPieView)</br>
+>>[GoogleArchitectureDemo 基于谷歌最新MVVM实现组件化架构，使用dataBinding、lifecycle、retrofit2、rxjava2、okhttp、fresco、ARouter]( https://github.com/Dawish/GoogleArchitectureDemo)</br>
+>>[HiPermission 权限申请库]( https://github.com/yewei02538)</br>
+>>[citypicker城市选择器，详细的省市区地址信息，支持仿iOS滚轮实现，一级或者三级列表展示方式。](https://github.com/crazyandcoder/citypicker)</br>
+>>[EasyPopup 可指定相对于 anchor view 各个方位弹出，设置背景变暗，指定 ViewGroup 背景变暗等特性。](https://github.com/zyyoona7/EasyPopup)</br>
+>>[FloatingActionButton](https://github.com/Clans/FloatingActionButton)</br>
+>>[CountdownView  Android 倒计时](https://github.com/iwgang/CountdownView)</br>
+>>[FlycoTabLayout 一个Android TabLayout库,目前有3个TabLayout](https://github.com/H07000223/FlycoTabLayout)</br>
+
+
 
 下拉刷新
 ==
@@ -82,6 +106,8 @@ RecyclerView相关
 >>[在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto)</br>
 >>[ImageloaderManager 图片加载库的二次封装](https://github.com/JuHonggang/ImageloaderManager)</br>
 >>[GSYVideoPlayer 视频播放器（IJKplayer）](https://github.com/CarGuo/GSYVideoPlayer)</br>
+>>[BlurredView 修改图片高斯模糊效果](https://github.com/wl9739/BlurredView)</br>
+>>[]()</br>
 
 开源项目
 ==
@@ -96,6 +122,7 @@ RecyclerView相关
 >>[Eve Dagger、Clean、MVP模式开发应用](https://github.com/BobEve/Eve)</br>
 >>[KotlinMvp 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP练手项目，UI 简约风格](https://github.com/git-xuhao/KotlinMvp)</br>
 >>[YiZhi MVP+RxJava2+Retrofit2+Glide+Rxbus，主要实现日报、新闻、干货、影视等资讯，个人项目](https://github.com/Horrarndoo/YiZhi)</br>
+>>[QMUI_Android 提高 Android UI 开发效率的 UI 库 ](https://github.com/QMUI/QMUI_Android)</br>
 
 AR、VR
 ==
