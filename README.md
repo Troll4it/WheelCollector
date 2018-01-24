@@ -91,6 +91,11 @@ RecyclerView相关
 >>[FloatingActionButton](https://github.com/Clans/FloatingActionButton)</br>
 >>[CountdownView  Android 倒计时](https://github.com/iwgang/CountdownView)</br>
 >>[FlycoTabLayout 一个Android TabLayout库,目前有3个TabLayout](https://github.com/H07000223/FlycoTabLayout)</br>
+>>[LemonHello4Android 对话框（](https://github.com/LemonAppCN/LemonHello4Android)</br>
+>>[MenuManage-Imitate-Alipay 仿支付宝首页应用管理(拖拽排序，添加删除)](https://github.com/ywanhzy/MenuManage-Imitate-Alipay)</br>
+>>[GestureLockView 可自由定制样式的手势解锁 View](https://github.com/zyyoona7/GestureLockView)</br>
+>>[SlidingUpPanelLayout 一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果。](https://github.com/woxingxiao/SlidingUpPanelLayout)</br>
+>>[EasyBehavior 一个可以上拉下滑的Ui效果(](https://github.com/JmStefanAndroid/EasyBehavior)</br>
 
 
 
@@ -107,7 +112,7 @@ RecyclerView相关
 >>[ImageloaderManager 图片加载库的二次封装](https://github.com/JuHonggang/ImageloaderManager)</br>
 >>[GSYVideoPlayer 视频播放器（IJKplayer）](https://github.com/CarGuo/GSYVideoPlayer)</br>
 >>[BlurredView 修改图片高斯模糊效果](https://github.com/wl9739/BlurredView)</br>
->>[]()</br>
+>>[glide-transformations](https://github.com/wasabeef/glide-transformations)</br>
 
 开源项目
 ==
@@ -123,10 +128,22 @@ RecyclerView相关
 >>[KotlinMvp 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP练手项目，UI 简约风格](https://github.com/git-xuhao/KotlinMvp)</br>
 >>[YiZhi MVP+RxJava2+Retrofit2+Glide+Rxbus，主要实现日报、新闻、干货、影视等资讯，个人项目](https://github.com/Horrarndoo/YiZhi)</br>
 >>[QMUI_Android 提高 Android UI 开发效率的 UI 库 ](https://github.com/QMUI/QMUI_Android)</br>
+>>[awesome-github-android-ui 安卓UI相关开源项目库汇总]( https://github.com/opendigg/awesome-github-android-ui)</br>
 
 AR、VR
 ==
 >>[VRPlayer VR播放器是一个简单而又强大本地VR视频播放器](https://github.com/wheat7/VRPlayer)</br>
 >>[360°全景图片、全景视频工程](https://github.com/sfsheng0322/DroidVR)</br>
+
+
+下载
+==
+>>[基于RxJava打造的下载工具, 支持多线程下载和断点续传,使用Kotlin编写 RxDownload](https://github.com/ssseasonnn/RxDownload)</br>
+>>[文件下载 FileDownloader](https://github.com/lingochamp/FileDownloader)</br>
+
+视频
+==
+>>[PLDroidShortVideo 七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、视频剪辑、本地转码、视频上传在内的多种功能，支持高度定制以及二次开发](https://github.com/pili-engineering/PLDroidShortVideo)</br>
+
 
 
