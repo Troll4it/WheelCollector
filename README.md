@@ -14,6 +14,11 @@
 >>[一份系统、全面的安卓进阶学习指南（更新中）](https://github.com/iwannabetop/Awesome-Android-Learning-Guide)</br>
 >>[LearningNotes](https://github.com/francistao/LearningNotes)</br>
 >>[awesome-java-leetcode 算法](https://github.com/Blankj/awesome-java-leetcode)</br>
+>>[各种与Android系统相关的框架图、流程图](https://github.com/bihe0832/Android-System-Related-Charts)</br>
+>>[android framework层源码解析，不定时更新哈](https://github.com/yipianfengye/androidSource)</br>
+>>[Android 技术笔记](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)</br>
+>>[ViewPager结合Tablayout，Fragment的懒加载实现demo演示。](https://github.com/Lesincs/LazyInitFrag-Demo)</br>
+
 
 架构方面
 ==
@@ -24,6 +29,10 @@
 >>[模块案例《ModularizationProjec》](https://github.com/BaronZ88/t)</br>
 >>[一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能](https://github.com/luojilab/DDComponentForAndroid)</br>
 >>[DDComponentForAndroid 一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能 ](https://github.com/luojilab/DDComponentForAndroid)</br>
+>>[组件化/模块化容器sdk ](https://github.com/xpleemoon/XModulable)</br>
+>>[一种简单有效的android组件化方案，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。](https://github.com/mqzhangw/JIMU)</br>
+
+
 
 
 
@@ -45,6 +54,9 @@ RecyclerView相关
 >> [ItemTouchHelper实现今日头条频道排序、移动 ](https://github.com/YoKeyword/ItemTouchHelperDemo)</br>
 >>[MultiTypeRecyclerViewAdapter一个专注于RecyclerView优雅刷新（接管资源和数据源）的MVP模式库，可配合大多数Adapter](https://github.com/crazysunj/MultiTypeRecyclerViewAdapter)</br>
 >>[RecyclerViewCardGallery RecyclerView实现Card Gallery效果，替代ViewPager方案。能够快速滑动并最终定位到居中位置](https://github.com/huazhiyuan2008/RecyclerViewCardGallery)</br>
+>>[基于RecyclerView的效果收集： 比如顶部渐变效果，动画效果....  RecyclerViewEffectGather](https://github.com/HarrisonLin/RecyclerViewEffectGather)</br>
+>>[RecyclerView实现翻页](https://github.com/langxiao505/HorizontalPage-master)</br>
+>>[RecyclerView动画](https://github.com/wasabeef/recyclerview-animators)</br>
 
 轮子
 ==
@@ -96,6 +108,17 @@ RecyclerView相关
 >>[GestureLockView 可自由定制样式的手势解锁 View](https://github.com/zyyoona7/GestureLockView)</br>
 >>[SlidingUpPanelLayout 一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果。](https://github.com/woxingxiao/SlidingUpPanelLayout)</br>
 >>[EasyBehavior 一个可以上拉下滑的Ui效果(](https://github.com/JmStefanAndroid/EasyBehavior)</br>
+>>[StateProgressBar 状态进度条](https://github.com/kofigyan/StateProgressBar)</br>
+>>[高仿拼多多分类列表，项目只适合分享，学习，交流，切勿作为商用！！！  Discover](https://github.com/GaoYin2016/Discover)</br>
+>>[PlumbTextView是一个垂直的TextView。您可以很容易地定义各种效果。](https://github.com/lybeat/PlumbTextView)</br>
+>>[仿支付宝首页应用管理(拖拽排序，添加删除](https://github.com/ywanhzy/MenuManage-Imitate-Alipay)</br>
+>>[知乎 Android 客户端启动页的视差动画效果实现](https://github.com/ryanhoo/Zhihu-Parallax-Animation)</br>
+>>[处理 Span 在 最大宽度文字尾省略号，无效的问题](https://github.com/lingochamp/SpanEllipsizeEnd)</br>
+>>[时间轴](https://github.com/vipulasri/Timeline-View)</br>
+>>[各式各样动画合集](各种动画合集)</br>
+>>[TextPathView是一个把文字转化为路径动画然后展现出来的自定义控件](https://github.com/totond/TextPathView)</br>
+
+
 
 
 
@@ -113,6 +136,11 @@ RecyclerView相关
 >>[GSYVideoPlayer 视频播放器（IJKplayer）](https://github.com/CarGuo/GSYVideoPlayer)</br>
 >>[BlurredView 修改图片高斯模糊效果](https://github.com/wl9739/BlurredView)</br>
 >>[glide-transformations](https://github.com/wasabeef/glide-transformations)</br>
+>>[懂得智能配色的ImageView,还能给自己设置多彩的阴影哦。 PaletteImageView](https://github.com/DingMouRen/PaletteImageView)</br>
+>>[从缩略图到原图无缝过渡转变的神奇组件](https://github.com/Hitomis/transferee)</br>
+>>[打造统一的图片加载框架，融合Glide（4.x），Fresco,不侵入业务代码，一套API兼容两种加载库](https://github.com/ladingwu/ImageLoaderFramework)</br>
+
+
 
 开源项目
 ==
@@ -145,5 +173,22 @@ AR、VR
 ==
 >>[PLDroidShortVideo 七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、视频剪辑、本地转码、视频上传在内的多种功能，支持高度定制以及二次开发](https://github.com/pili-engineering/PLDroidShortVideo)</br>
 
+Rx系列
+==
+>>[RxBusPlus](https://github.com/ladingwu/RxBusPlus)
+>>[]()
 
+
+线程相关库
+==
+>>[安全、轻巧、简单的线程池管理器EasyThread](https://github.com/yjfnypeu/EasyThread)
+
+
+网格UI
+==
+>>[一款android自动生成表格框架---An Android automatically generated table framework](https://github.com/huangyanbin/smartTable)</br>
+
+杂类
+==
+>>[高峰期时，快递员一天平均派送100多快件，工作时间超13小时。快递员的一天始于分拣快递，分拣是最重要的一步。快递员分拣出自己需要派送的快件，分拣完了心里就大概清楚要走的路线。在派送的过程中，由于快件过多，快递员通常会错派，漏派，导致走冤枉路，降低效率。并且通常快递员心里计算的路线和最优规划路线差距很大，走不熟悉路线时没有一键导航，导致绕路、走错路。快递员到达快件目的地楼下后再拨打客户电话通知取件，需要等待客户来取件，等待的平均时间超过5分钟。且客户有可能这个时间段不在，快递员就白送了一趟。 本项目基于以上实际情况，开发出一款Android App——“派送助手”。首先将快件的地址和电话信息添加到“派送助手”，点击“开始派送”，后台将会通过后台算法计算最优路线，确定快件的派送次序，快递员…  Android-CourierAssistant](https://github.com/xxxtai/Android-CourierAssistant)
 
