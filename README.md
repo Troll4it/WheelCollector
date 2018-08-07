@@ -138,7 +138,9 @@ RecyclerView相关
 >>[glide-transformations](https://github.com/wasabeef/glide-transformations)</br>
 >>[懂得智能配色的ImageView,还能给自己设置多彩的阴影哦。 PaletteImageView](https://github.com/DingMouRen/PaletteImageView)</br>
 >>[从缩略图到原图无缝过渡转变的神奇组件](https://github.com/Hitomis/transferee)</br>
->>[打造统一的图片加载框架，融合Glide（4.x），Fresco,不侵入业务代码，一套API兼容两种加载库](https://github.com/ladingwu/ImageLoaderFramework)</br>
+>>[打造统一的图片加载框架，融合Glide（4.x），Fresco,不侵入业务代码，一套API兼容两种加载库](https://github.com/ladingwu/ImageLoaderFramework)《
+>>[超大图分区块加载subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)
+</br>
 
 
 
